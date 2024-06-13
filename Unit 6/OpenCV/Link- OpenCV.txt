@@ -1,0 +1,19 @@
+https://www.youtube.com/channel/UCeJtT7mbqhitmxEpWSK3Kwg
+
+
+1 OpenCV Installation and Basic Functions
+https://www.youtube.com/watch?v=gu70LM2zmSU
+
+OpenCV Tutorial 2: Image Functions
+https://www.youtube.com/watch?v=FzR3cFu0F4I
+
+Tutorial 3: OpenCV Geometric Shapes Functions
+https://www.youtube.com/watch?v=LizLIxcoh4Y
+
+
+Tutorial 4 OpenCV Image Operations
+https://www.youtube.com/watch?v=VbXveiOvKEk
+
+
+Tutorial 5 OpenCV Image WarpPerspective
+https://youtu.be/POnqDQljb20
