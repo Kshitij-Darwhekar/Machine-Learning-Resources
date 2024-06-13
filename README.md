@@ -3,4 +3,3 @@
 
 # Books
 - ### [Introduction to Machine Learning With Python](https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/)
-- 
